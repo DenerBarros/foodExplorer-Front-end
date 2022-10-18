@@ -70,11 +70,7 @@ Instale as dependências
   yarn 
 ```
 
-Rode as migrations e o seed
 
-```bash
-  npm run migrate
-  npm run seed
 ```
 
 Inicie o servidor
@@ -85,7 +81,7 @@ Inicie o servidor
 
 ### Admin login
 - email: admin@email.com
-- password: 987654
+- password: 123456
 
 
 
