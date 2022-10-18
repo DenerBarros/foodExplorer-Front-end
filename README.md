@@ -9,7 +9,7 @@ A aplicação  é um cardápio digital para um restaurante fictício, conhecido 
 
 ## Deploy
 
-- <a target="_blank" href="">Deploy</a>
+- <a target="_blank" href="https://foodexplorer-dnr.netlify.app/">Deploy</a>
 
 ## Tecnlogias utilizadaz
 
